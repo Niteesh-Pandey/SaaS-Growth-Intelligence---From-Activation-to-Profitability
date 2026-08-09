@@ -552,10 +552,10 @@ The analysis therefore recommends a **product-led, profitability-focused growth 
 
 ---
 
-# Author - [Niteesh pandey]
-
-
----
+# Author - 
+[Niteesh pandey]
+LinkedIn: [https://www.linkedin.com/in/niteeshpandey9555/]
+Portfolio: [https://niteesh-pandey.github.io]
 
 
 
