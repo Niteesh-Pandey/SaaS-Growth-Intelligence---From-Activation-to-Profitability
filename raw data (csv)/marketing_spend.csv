@@ -1,0 +1,141 @@
+month,channel,marketing_spend
+2025-01-01,Organic Search,458.49
+2025-01-01,Paid Search,408.43
+2025-01-01,Paid Social,126.92
+2025-01-01,Referral,47.84
+2025-01-01,Content/SEO,212.7
+2025-01-01,Email,2.89
+2025-01-01,Affiliate,61.86
+2025-02-01,Organic Search,407.95
+2025-02-01,Paid Search,461.51
+2025-02-01,Paid Social,519.16
+2025-02-01,Referral,77.93
+2025-02-01,Content/SEO,314.04
+2025-02-01,Email,29.84
+2025-02-01,Affiliate,202.35
+2025-03-01,Organic Search,221.29
+2025-03-01,Paid Search,926.27
+2025-03-01,Paid Social,624.66
+2025-03-01,Referral,93.37
+2025-03-01,Content/SEO,291.45
+2025-03-01,Email,44.0
+2025-03-01,Affiliate,261.64
+2025-04-01,Organic Search,716.07
+2025-04-01,Paid Search,1364.0
+2025-04-01,Paid Social,837.85
+2025-04-01,Referral,112.41
+2025-04-01,Content/SEO,459.86
+2025-04-01,Email,70.55
+2025-04-01,Affiliate,311.17
+2025-05-01,Organic Search,793.78
+2025-05-01,Paid Search,1186.52
+2025-05-01,Paid Social,635.24
+2025-05-01,Referral,105.92
+2025-05-01,Content/SEO,342.92
+2025-05-01,Email,58.53
+2025-05-01,Affiliate,256.34
+2025-06-01,Organic Search,351.11
+2025-06-01,Paid Search,1342.76
+2025-06-01,Paid Social,731.89
+2025-06-01,Referral,107.69
+2025-06-01,Content/SEO,413.37
+2025-06-01,Email,75.03
+2025-06-01,Affiliate,351.76
+2025-07-01,Organic Search,679.89
+2025-07-01,Paid Search,1309.59
+2025-07-01,Paid Social,1136.09
+2025-07-01,Referral,161.02
+2025-07-01,Content/SEO,397.82
+2025-07-01,Email,54.81
+2025-07-01,Affiliate,503.5
+2025-08-01,Organic Search,297.2
+2025-08-01,Paid Search,1614.45
+2025-08-01,Paid Social,1103.6
+2025-08-01,Referral,202.18
+2025-08-01,Content/SEO,484.07
+2025-08-01,Email,97.87
+2025-08-01,Affiliate,419.46
+2025-09-01,Organic Search,379.98
+2025-09-01,Paid Search,1524.29
+2025-09-01,Paid Social,948.23
+2025-09-01,Referral,179.47
+2025-09-01,Content/SEO,347.9
+2025-09-01,Email,82.09
+2025-09-01,Affiliate,273.88
+2025-10-01,Organic Search,356.28
+2025-10-01,Paid Search,2065.17
+2025-10-01,Paid Social,1065.1
+2025-10-01,Referral,151.48
+2025-10-01,Content/SEO,679.85
+2025-10-01,Email,82.9
+2025-10-01,Affiliate,539.93
+2025-11-01,Organic Search,506.79
+2025-11-01,Paid Search,2043.28
+2025-11-01,Paid Social,1222.59
+2025-11-01,Referral,163.58
+2025-11-01,Content/SEO,602.15
+2025-11-01,Email,85.26
+2025-11-01,Affiliate,341.39
+2025-12-01,Organic Search,499.57
+2025-12-01,Paid Search,1368.89
+2025-12-01,Paid Social,734.66
+2025-12-01,Referral,159.52
+2025-12-01,Content/SEO,223.57
+2025-12-01,Email,74.68
+2025-12-01,Affiliate,694.95
+2026-01-01,Organic Search,654.63
+2026-01-01,Paid Search,1828.9
+2026-01-01,Paid Social,1404.37
+2026-01-01,Referral,166.48
+2026-01-01,Content/SEO,299.42
+2026-01-01,Email,78.67
+2026-01-01,Affiliate,395.48
+2026-02-01,Organic Search,347.09
+2026-02-01,Paid Search,1333.86
+2026-02-01,Paid Social,1174.89
+2026-02-01,Referral,190.46
+2026-02-01,Content/SEO,319.52
+2026-02-01,Email,97.81
+2026-02-01,Affiliate,283.38
+2026-03-01,Organic Search,664.71
+2026-03-01,Paid Search,1507.44
+2026-03-01,Paid Social,1565.62
+2026-03-01,Referral,223.38
+2026-03-01,Content/SEO,676.93
+2026-03-01,Email,112.88
+2026-03-01,Affiliate,475.51
+2026-04-01,Organic Search,507.83
+2026-04-01,Paid Search,2013.88
+2026-04-01,Paid Social,1402.38
+2026-04-01,Referral,253.83
+2026-04-01,Content/SEO,291.81
+2026-04-01,Email,67.59
+2026-04-01,Affiliate,636.34
+2026-05-01,Organic Search,512.21
+2026-05-01,Paid Search,2190.14
+2026-05-01,Paid Social,1268.79
+2026-05-01,Referral,197.73
+2026-05-01,Content/SEO,723.07
+2026-05-01,Email,89.39
+2026-05-01,Affiliate,582.45
+2026-06-01,Organic Search,485.71
+2026-06-01,Paid Search,2164.56
+2026-06-01,Paid Social,1730.74
+2026-06-01,Referral,207.7
+2026-06-01,Content/SEO,700.19
+2026-06-01,Email,64.9
+2026-06-01,Affiliate,410.62
+2026-07-01,Organic Search,687.21
+2026-07-01,Paid Search,1595.66
+2026-07-01,Paid Social,752.55
+2026-07-01,Referral,224.79
+2026-07-01,Content/SEO,588.75
+2026-07-01,Email,48.7
+2026-07-01,Affiliate,280.59
+2026-08-01,Organic Search,741.61
+2026-08-01,Paid Search,158.95
+2026-08-01,Paid Social,26.45
+2026-08-01,Referral,23.18
+2026-08-01,Content/SEO,683.86
+2026-08-01,Email,5.7
+2026-08-01,Affiliate,40.46
