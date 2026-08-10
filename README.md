@@ -518,24 +518,25 @@ saas-growth-intelligence/
 │
 ├── README.md
 │
-├── SQL/
-│   ├── 01_data_exploration.sql
-│   ├── 02_data_quality.sql
-│   ├── 03_data_cleaning.sql
-│   ├── 04_engagement_analysis.sql
-│   ├── 05_funnel_analysis.sql
-│   ├── 06_cohort_retention.sql
-│   └── 07_cac_clv_ltv.sql
+├── Row Data/
+│   ├── 01_ Users
+│   ├── 02_ subscription
+│   ├── 03_Markiting_spend
+│   ├── 04_events
+│   ├── 05_ab_test_assignments
+│   
+│   └── 07_
 │
-├── Python/
+├── Python /
 │   └── saas_growth_analysis.ipynb
 │
 ├── Dashboard/
 │   └── dashboard_files
 │
-├── Data/
-│   └── source_data
-│
+├── SQL/
+│   └──  saas_growth_analysis.sql
+│   ├── Raw database
+
 └── Business_Insights/
     └── SaaS_Growth_Analysis_and_Recommendations.pdf
 ```
